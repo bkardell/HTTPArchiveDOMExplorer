@@ -1,0 +1,79 @@
+/* styles */
+/* called by your view template */
+
+output {
+  font-size: 0.8rem;
+  display: block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0.5em;
+  font-size: 0.65rem;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  max-width: 600px;
+}
+
+label, textarea{ display: block; width: 100%; }
+label, button { font-weight: bold; max-width: 50%; margin: 1rem; }
+
+fieldset label { display: grid; max-width: 95%; width: 95%; grid-template-columns: 3fr 1fr; }
+
+li { white-space: nowrap; }
+form {
+  margin: 0;
+  padding: 0.5rem;
+  background-color: cyan;
+  display: block;
+  width: 100%;
+  max-width: 340px;
+  border-radius: 3px;
+  margin-bottom: 2rem;
+}
+
+input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+button {
+  border-radius: 3px;
+  background-color: lightgrey;
+  border: 1px solid grey;
+  box-shadow: 2px 2px teal;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: yellow;
+}
+
+button:active {
+  box-shadow: none;
+}
+
+
+footer {
+  margin-top: 50px;
+  padding-top: 25px;
+  border-top: 1px solid lightgrey;
+}
