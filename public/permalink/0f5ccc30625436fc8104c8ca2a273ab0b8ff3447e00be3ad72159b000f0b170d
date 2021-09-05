@@ -1,0 +1,211 @@
+<a href="/permalink/0f5ccc30625436fc8104c8ca2a273ab0b8ff3447e00be3ad72159b000f0b170d" style="display:block">permalink</a>
+    <div>In the dataset <a href="aug_2019.json">aug_2019.json</a> 3677 (0.06941085905235017%) pages match 40 variants of the terms:</div>
+<ul>
+  <li>fb:share-button</li><li>amp-social-share</li><li>r9-social-account-button</li><li>r9-social-account-link</li><li>share-button</li><li>post-shares-amount</li><li>gavern:social</li><li>social</li><li>share-modal</li><li>social-widget</li><li>o-social-wall-dynamic</li><li>m-social-post-dynamic</li><li>socialbar</li><li>ev-social-btns</li><li>shared</li><li>ev-social-registration</li><li>ev-social-link</li><li>social-links</li><li>nclood-social</li><li>social-share</li><li>ark-social-item</li><li>ark-social-list</li><li>ark-social-bar</li><li>user-social-login</li><li>app-social-icons</li><li>share</li><li>sharebuttonscontainer</li><li>social-login</li><li>app-social</li><li>app-share</li><li>ngc-social-icons</li><li>app-footer-social</li><li>cr-share-links</li><li>share-buttons</li><li>ng-social-hub-widget-panel</li><li>socialdescription</li><li>socialtitle</li><li>shareurl</li><li>changeshareurl</li><li>socialsharing</li>
+</ul>
+<details>
+<summary>see details</summary>
+<pre><code>[
+  {
+    "term": "/share/",
+    "matched": "fb:share-button",
+    "pages": 1315
+  },
+  {
+    "term": "/social/",
+    "matched": "amp-social-share",
+    "pages": 445
+  },
+  {
+    "term": "/social/",
+    "matched": "r9-social-account-button",
+    "pages": 165
+  },
+  {
+    "term": "/social/",
+    "matched": "r9-social-account-link",
+    "pages": 165
+  },
+  {
+    "term": "/share/",
+    "matched": "share-button",
+    "pages": 144
+  },
+  {
+    "term": "/share/",
+    "matched": "post-shares-amount",
+    "pages": 117
+  },
+  {
+    "term": "/social/",
+    "matched": "gavern:social",
+    "pages": 101
+  },
+  {
+    "term": "/social/",
+    "matched": "social",
+    "pages": 98
+  },
+  {
+    "term": "/share/",
+    "matched": "share-modal",
+    "pages": 83
+  },
+  {
+    "term": "/social/",
+    "matched": "social-widget",
+    "pages": 82
+  },
+  {
+    "term": "/social/",
+    "matched": "o-social-wall-dynamic",
+    "pages": 61
+  },
+  {
+    "term": "/social/",
+    "matched": "m-social-post-dynamic",
+    "pages": 61
+  },
+  {
+    "term": "/social/",
+    "matched": "socialbar",
+    "pages": 53
+  },
+  {
+    "term": "/social/",
+    "matched": "ev-social-btns",
+    "pages": 52
+  },
+  {
+    "term": "/share/",
+    "matched": "shared",
+    "pages": 48
+  },
+  {
+    "term": "/social/",
+    "matched": "ev-social-registration",
+    "pages": 44
+  },
+  {
+    "term": "/social/",
+    "matched": "ev-social-link",
+    "pages": 44
+  },
+  {
+    "term": "/social/",
+    "matched": "social-links",
+    "pages": 41
+  },
+  {
+    "term": "/social/",
+    "matched": "nclood-social",
+    "pages": 41
+  },
+  {
+    "term": "/social/",
+    "matched": "social-share",
+    "pages": 36
+  },
+  {
+    "term": "/social/",
+    "matched": "ark-social-item",
+    "pages": 36
+  },
+  {
+    "term": "/social/",
+    "matched": "ark-social-list",
+    "pages": 36
+  },
+  {
+    "term": "/social/",
+    "matched": "ark-social-bar",
+    "pages": 36
+  },
+  {
+    "term": "/social/",
+    "matched": "user-social-login",
+    "pages": 34
+  },
+  {
+    "term": "/social/",
+    "matched": "app-social-icons",
+    "pages": 31
+  },
+  {
+    "term": "/share/",
+    "matched": "share",
+    "pages": 26
+  },
+  {
+    "term": "/share/",
+    "matched": "sharebuttonscontainer",
+    "pages": 26
+  },
+  {
+    "term": "/social/",
+    "matched": "social-login",
+    "pages": 25
+  },
+  {
+    "term": "/social/",
+    "matched": "app-social",
+    "pages": 22
+  },
+  {
+    "term": "/share/",
+    "matched": "app-share",
+    "pages": 22
+  },
+  {
+    "term": "/social/",
+    "matched": "ngc-social-icons",
+    "pages": 22
+  },
+  {
+    "term": "/social/",
+    "matched": "app-footer-social",
+    "pages": 21
+  },
+  {
+    "term": "/share/",
+    "matched": "cr-share-links",
+    "pages": 20
+  },
+  {
+    "term": "/share/",
+    "matched": "share-buttons",
+    "pages": 20
+  },
+  {
+    "term": "/social/",
+    "matched": "ng-social-hub-widget-panel",
+    "pages": 19
+  },
+  {
+    "term": "/social/",
+    "matched": "socialdescription",
+    "pages": 17
+  },
+  {
+    "term": "/social/",
+    "matched": "socialtitle",
+    "pages": 17
+  },
+  {
+    "term": "/share/",
+    "matched": "shareurl",
+    "pages": 17
+  },
+  {
+    "term": "/share/",
+    "matched": "changeshareurl",
+    "pages": 17
+  },
+  {
+    "term": "/social/",
+    "matched": "socialsharing",
+    "pages": 17
+  }
+]</code></pre> 
+</details>
+    

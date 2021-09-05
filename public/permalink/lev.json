@@ -1,0 +1,354 @@
+[
+    {
+        "client": "desktop",
+        "element": "clippath",
+        "pages": 42900,
+        "totalPages": "4371974",
+        "pct": 0.98,
+        "looksLike": "clipPath"
+    },
+    {
+        "client": "desktop",
+        "element": "lineargradient",
+        "pages": 37070,
+        "totalPages": "4371974",
+        "pct": 0.85,
+        "looksLike": "linearGradient"
+    },
+    {
+        "client": "desktop",
+        "element": "feoffset",
+        "pages": 17171,
+        "totalPages": "4371974",
+        "pct": 0.39,
+        "looksLike": "feOffset"
+    },
+    {
+        "client": "desktop",
+        "element": "femerge",
+        "pages": 11775,
+        "totalPages": "4371974",
+        "pct": 0.27,
+        "looksLike": "feMerge"
+    },
+    {
+        "client": "desktop",
+        "element": "animatetransform",
+        "pages": 7796,
+        "totalPages": "4371974",
+        "pct": 0.18,
+        "looksLike": "animateTransform"
+    },
+    {
+        "client": "desktop",
+        "element": "radialgradient",
+        "pages": 6895,
+        "totalPages": "4371974",
+        "pct": 0.16,
+        "looksLike": "radialGradient"
+    },
+    {
+        "client": "desktop",
+        "element": "feblend",
+        "pages": 4018,
+        "totalPages": "4371974",
+        "pct": 0.09,
+        "looksLike": "feBlend"
+    },
+    {
+        "client": "desktop",
+        "element": "fecomposite",
+        "pages": 3766,
+        "totalPages": "4371974",
+        "pct": 0.09,
+        "looksLike": "feComposite"
+    },
+    {
+        "client": "desktop",
+        "element": "feflood",
+        "pages": 2127,
+        "totalPages": "4371974",
+        "pct": 0.05,
+        "looksLike": "feFlood"
+    },
+    {
+        "client": "desktop",
+        "element": "foreignobject",
+        "pages": 1249,
+        "totalPages": "4371974",
+        "pct": 0.03,
+        "looksLike": "foreignObject"
+    },
+    {
+        "client": "desktop",
+        "element": "femorphology",
+        "pages": 942,
+        "totalPages": "4371974",
+        "pct": 0.02,
+        "looksLike": "feMorphology"
+    },
+    {
+        "client": "desktop",
+        "element": "descr",
+        "pages": 399,
+        "totalPages": "4371974",
+        "pct": 0.01,
+        "looksLike": "desc"
+    },
+    {
+        "client": "desktop",
+        "element": "textpath",
+        "pages": 311,
+        "totalPages": "4371974",
+        "pct": 0.01,
+        "looksLike": "textPath"
+    },
+    {
+        "client": "desktop",
+        "element": "xscript",
+        "pages": 203,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "script"
+    },
+    {
+        "client": "desktop",
+        "element": "txt",
+        "pages": 174,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "tt"
+    },
+    {
+        "client": "desktop",
+        "element": "animatemotion",
+        "pages": 145,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "animateMotion"
+    },
+    {
+        "client": "desktop",
+        "element": "top",
+        "pages": 116,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "stop"
+    },
+    {
+        "client": "desktop",
+        "element": "feimage",
+        "pages": 98,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "feImage"
+    },
+    {
+        "client": "desktop",
+        "element": "liner",
+        "pages": 87,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "line"
+    },
+    {
+        "client": "desktop",
+        "element": "user",
+        "pages": 74,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "use"
+    },
+    {
+        "client": "desktop",
+        "element": "def",
+        "pages": 68,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "del"
+    },
+    {
+        "client": "desktop",
+        "element": "feturbulence",
+        "pages": 66,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "feTurbulence"
+    },
+    {
+        "client": "desktop",
+        "element": "titl",
+        "pages": 61,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "title"
+    },
+    {
+        "client": "desktop",
+        "element": "images",
+        "pages": 56,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "image"
+    },
+    {
+        "client": "desktop",
+        "element": "test",
+        "pages": 56,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "text"
+    },
+    {
+        "client": "desktop",
+        "element": "met",
+        "pages": 55,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "set"
+    },
+    {
+        "client": "desktop",
+        "element": "sbt",
+        "pages": 54,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "set"
+    },
+    {
+        "client": "desktop",
+        "element": "tile",
+        "pages": 51,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "title"
+    },
+    {
+        "client": "desktop",
+        "element": "scrip",
+        "pages": 43,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "script"
+    },
+    {
+        "client": "desktop",
+        "element": "views",
+        "pages": 41,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "view"
+    },
+    {
+        "client": "desktop",
+        "element": "like",
+        "pages": 40,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "line"
+    },
+    {
+        "client": "desktop",
+        "element": "sсript",
+        "pages": 40,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "script"
+    },
+    {
+        "client": "desktop",
+        "element": "scripts",
+        "pages": 32,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "script"
+    },
+    {
+        "client": "desktop",
+        "element": "texte",
+        "pages": 28,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "text"
+    },
+    {
+        "client": "desktop",
+        "element": "linl",
+        "pages": 27,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "link"
+    },
+    {
+        "client": "desktop",
+        "element": "style=",
+        "pages": 24,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "style"
+    },
+    {
+        "client": "desktop",
+        "element": "next",
+        "pages": 23,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "text"
+    },
+    {
+        "client": "desktop",
+        "element": "filters",
+        "pages": 20,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "filter"
+    },
+    {
+        "client": "desktop",
+        "element": "titre",
+        "pages": 19,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "title"
+    },
+    {
+        "client": "desktop",
+        "element": "styles",
+        "pages": 18,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "style"
+    },
+    {
+        "client": "desktop",
+        "element": "script_",
+        "pages": 18,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "script"
+    },
+    {
+        "client": "desktop",
+        "element": "cript",
+        "pages": 16,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "script"
+    },
+    {
+        "client": "desktop",
+        "element": "match",
+        "pages": 15,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "math"
+    },
+    {
+        "client": "desktop",
+        "element": "textt",
+        "pages": 15,
+        "totalPages": "4371974",
+        "pct": 0,
+        "looksLike": "text"
+    }
+]

@@ -1,0 +1,99 @@
+<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!-- You might want to try something fancier: -->
+<!-- html/nunjucks docs: https://mozilla.github.io/nunjucks/ -->
+<!-- pug: https://pugjs.org/ -->
+<!-- haml: http://haml.info/ -->
+<!-- hbs(handlebars): http://handlebarsjs.com/ -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>HTTPArchive DOM Explorer</title>
+    <meta name="description" content="A cool thing made with Glitch">
+    <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's client-side javascript file -->
+    <script src="/client.js" type="module"></script>
+  </head>
+  <body>
+    <header>
+      <h1>
+        HTTPArchive DOM Explorer
+      </h1>
+    </header>
+
+    <main>
+      <details>
+        <summary>What's this?</summary>
+         <p>This little page lets you explore 
+      the results elements found in the HTTPArchive's 
+      massive terrabytes of crawl data for the purposes of 
+      exploring the 'slang' of the interwebs. You can enter one
+      or more regular expressions (one per line) and submit to 
+      see the results.</p>
+      </details>
+     
+      
+      <form method="POST" action="/query">
+        <label>
+          dataset
+          <select name="dataset">
+            <option value="aug_2019.json">August 2019</option>
+            <option value="march_2020.json">March 2020</option>
+            <option value="july_2021.json" selected>July 2021</option>
+          </select>
+        </label>
+        <!-- <input type="hidden" name="dataset" value="aug_2019.json"> -->
+        <label>
+          client
+          <select name="client">
+            <option>mobile</option>
+            <option>desktop</option>
+          </select>
+        </label>
+        <fieldset>
+          <legend>
+            Automatically filter out
+          </legend>
+          <label>
+            <span>HTML Elements</span> <input name="filter" value="html" type="checkbox">
+          </label>
+          
+          <label>
+            <span>SVG Elements</span> <input name="filter" value="svg" type="checkbox">
+          </label>
+          
+          <label>
+            <span>MathML Elements</span> <input name="filter" value="mathml" type="checkbox">
+          </label>
+          
+          <!-- label>
+            <span>Non-standard Elements</span> <input name="filter" value="non-standard" type="checkbox">
+          </label -->
+        </fieldset>
+        <label>
+          Elements Matching Regular Expressions:
+          <textarea name="query">/social/
+/share/</textarea>        
+        </label>
+        <button type="submit" id="submit-query">Submit Query</button>
+      </form>
+      <output>
+        
+      </output>
+      
+    </main>
+
+
+
+
+  </body>
+</html>
